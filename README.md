@@ -1,6 +1,6 @@
 # Hi, I'm Elena 👋
 
-### Aspiring Data & AI Developer for Sustainable Finance | Python · Power BI · SAP | Building ESG reporting tools with Python & AI
+### Aspiring Data & AI Developer | Python · Power BI · SAP | Building ESG reporting tools with Python & AI
 
 I'm doing the **MSc in Computer Science & Digital Innovation** at IE University (2026–2027), after a Dual BBA + Laws. I work where **business, law and code** meet: I've built KPI dashboards at **Repsol**, data-quality trackers in private banking at **CBNK**, and co-founded **Alga.e**, a greentech startup turning sargassum seaweed into a circular-economy business.
 ## 🌱 Now
